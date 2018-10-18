@@ -36,6 +36,7 @@ h1 {
   padding: 0 1.7rem;
   margin-bottom: 40px;
   width: 50%;
+  cursor: pointer;
 }
 .card .menu-content {
   margin: 0;
@@ -94,12 +95,19 @@ h1 {
   margin-top: 10px;
 }
 .card .text {
-   display: -webkit-box;
-   -webkit-line-clamp: 3;
-   -webkit-box-orient: vertical;
-   overflow: hidden;
-   text-overflow: ellipsis;
+  height: 70px;
+  margin: 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
+
+a.learn-more {
+  margin-top: 15px;
+}
+
 .card input[type="checkbox"] {
   display: none;
 }
