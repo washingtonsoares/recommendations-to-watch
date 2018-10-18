@@ -94,9 +94,11 @@ h1 {
   margin-top: 10px;
 }
 .card .text {
-  height: 70px;
-  overflow: auto;
-  margin: 0;
+   display: -webkit-box;
+   -webkit-line-clamp: 3;
+   -webkit-box-orient: vertical;
+   overflow: hidden;
+   text-overflow: ellipsis;
 }
 .card input[type="checkbox"] {
   display: none;

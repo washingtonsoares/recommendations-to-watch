@@ -12,23 +12,8 @@ export default ({ title, description, imageURL, learnMore }) => (
             <a href="#">{title}</a>
           </h1>
           <p className="text">{description}</p>
+          <a href={learnMore} target="_blank">{title}</a>
         </div>
-        <input type="checkbox" id="show-menu" />
-        <ul className="menu-content">
-          <li>
-            <a href="#" className="fa fa-bookmark-o" />
-          </li>
-          <li>
-            <a href="#" className="fa fa-heart-o">
-              <span>47</span>
-            </a>
-          </li>
-          <li>
-            <a href="#" className="fa fa-comment-o">
-              <span>8</span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
