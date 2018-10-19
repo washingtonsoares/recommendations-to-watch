@@ -34,5 +34,17 @@
         "description": "Atypical é uma série norte-americana de comédia dramática original Netflix, criada e escrita por Robia Rashid, que conta a história de um rapaz de 18 anos, diagnosticado dentro do espectro do autismo, que trabalha e estuda, vivendo a efervescência da idade e seu amadurecimento.",
         "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Atypical_p%C3%B3ster.jpg/250px-Atypical_p%C3%B3ster.jpg",
         "learnMore": "https://pt.wikipedia.org/wiki/Atypical"
+    },
+    {
+        "title": "Punisher",
+        "description": "Punisher é um personagem fictício, um anti-herói, que aparece nas histórias em quadrinhos publicadas pela Marvel Comics. Criado pelo escritor Gerry Conway e pelos artistas Ross Andru e John Romita, Sr., com o publicador Stan Lee a dar-lhe o nome, apareceu pela primeira vez em The Amazing Spider-Man #129.",
+        "imageURL": "https://jovemnerd.com.br/wp-content/uploads/Quem-%C3%A9-o-Justiceiro-760x428.jpg",
+        "learnMore": "https://pt.wikipedia.org/wiki/Punisher"
+    },
+    {
+        "title": "Vikings",
+        "description": "A série acompanha a saga dos navegadores nórdicos que exploram - e conquistam - novos territórios nos tempos medievais.",
+        "imageURL": "http://br.web.img3.acsta.net/pictures/17/10/16/18/50/5552678.jpg",
+        "learnMore": "https://pt.wikipedia.org/wiki/Vikings_(série_de_televisão)"
     }
 ]
