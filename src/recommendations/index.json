@@ -17,7 +17,30 @@
         "imageURL": "https://assets0.minhaserie.com.br//images/highlights/000/041/672/39685.jpg",
         "learnMore": "https://pt.wikipedia.org/wiki/How_to_Train_Your_Dragon_(filme)"
     },
-    {
+{
+
+	 "title": "Norbit - Uma Comédia de Peso",
+        "description": "Norbit: um homem que tem problemas com a sua mulher e se apaixona por sua amiga de infância",
+        "imageURL": "https://i.ytimg.com/vi/jZteZ7a4K0E/maxresdefault.jpg",
+        "learnMore": "https://pt.wikipedia.org/wiki/Norbit"
+
+},
+{
+
+	 "title": "Documentário Luiz Gonzaga - Vida, Música e Conquistas",
+        "description": "Documentário que apresenta a vida do ilustre e gênio internacional: Gonzaguinha",
+        "imageURL": "https://www.kboing.com.br/fotos/imagens/536ccb6f59e88.jpg",
+        "learnMore": "https://pt.wikipedia.org/wiki/Gonzaguinha"
+
+},
+{
+
+	 "title": "Frozen - Uma Aventura Congelante",
+        "description": "Um filme para todas as idades, que deixa emociona e dá arrepios ao público",
+        "imageURL": "http://www.osul.com.br/wp-content/uploads/2015/10/frozen.jpg",
+        "learnMore": "https://pt.wikipedia.org/wiki/Frozen_(2013)"
+},
+   {
          "title": "O Pequenino",
         "description": "Calvin Sims (Marlon Wayans) é um perigoso ladrão de jóias que não tem nem um metro de altura. Recém-saído da prisão, elen decide realizar um último grande roubo antes de se aposentar.",
         "imageURL": "http://br.web.img3.acsta.net/c_300_300/pictures/210/364/21036473_20130905212653924.jpg",
@@ -58,6 +81,5 @@
         "imageURL": "https://upload.wikimedia.org/wikipedia/pt/8/84/Leatherface.jpg",
         "learnMore": "https://pt.wikipedia.org/wiki/The_Texas_Chain_Saw_Massacre"
     }
+
 ]
-
-
