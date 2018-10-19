@@ -21,11 +21,26 @@ Basta adicionar no arquivo `recommendations/index.json` algum filme, série ou a
 - [Fork este repositório](https://help.github.com/articles/fork-a-repo/)
 - Clone o repositório forcado, da sua conta
 - Adicione a sua contribuição no arquivo `recommendations/index.json`
-- Prepare os arquivos para o commit: `git add .`
-- Commit suas alterações com uma menasgem apropriada, exemplo: `git commit -m "Adicionando filme Clube da Luta"`. 
-- Envie as alterações para o seu repositório: `git push orign master`
+- Prepare os arquivos para o commit: 
+    ```shell
+     git add .
+    ```
+- Commit suas alterações com uma menasgem apropriada, exemplo: 
+    ```shell
+     git commit -m "Adicionando filme Clube da Luta"
+    ```
+- Envie as alterações para o seu repositório:
+     ```shell
+      git push orign master
+    ```
 - [Crie o seu pull request](https://github.com/washingtonsoares/recommendations-to-watch/pull/new/master) e aguarde aprovação :)
 
 ## Como manter o seu projeto local sincronizado com este repositório
-- Adicionar o endereço deste reposiório como `origin` do projeto local: `git remote add upstream https://github.com/washingtonsoares/recommendations-to-watch.git`
-- Sincroniza o projeto local com o repositório do Github que foi "forkado": `git pull upstream master`
+- Adicionar o endereço deste reposiório como `origin` do projeto local: 
+     ```shell
+      git remote add upstream https://github.com/washingtonsoares/recommendations-to-watch.git
+    ```
+- Sincroniza o projeto local com o repositório do Github que foi "forkado": 
+     ```shell
+      git pull upstream master
+    ```
