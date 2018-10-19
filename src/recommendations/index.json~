@@ -16,31 +16,5 @@
         "description": "Soluço é um adolescente viking da ilha de Berk, onde lutar contra dragões é um meio de vida. Suas opiniões avançadas e um senso de humor estranho o tornam um desajustado, apesar de seu pai ser o chefe do clã.",
         "imageURL": "https://assets0.minhaserie.com.br//images/highlights/000/041/672/39685.jpg",
         "learnMore": "https://pt.wikipedia.org/wiki/How_to_Train_Your_Dragon_(filme)"
-    },
-
-{
-
-	 "title": "Norbit - Uma Comédia de Peso",
-        "description": "Norbit: um homem que tem problemas com a sua mulher e se apaixona por sua amiga de infância",
-        "imageURL": "https://i.ytimg.com/vi/jZteZ7a4K0E/maxresdefault.jpg",
-        "learnMore": "https://pt.wikipedia.org/wiki/Norbit"
-
-},
-{
-
-	 "title": "Documentário Luiz Gonzaga - Vida, Música e Conquistas",
-        "description": "Documentário que apresenta a vida do ilustre e gênio internacional: Gonzaguinha",
-        "imageURL": "https://www.kboing.com.br/fotos/imagens/536ccb6f59e88.jpg",
-        "learnMore": "https://pt.wikipedia.org/wiki/Gonzaguinha"
-
-},
-{
-
-	 "title": "Frozen - Uma Aventura Congelante",
-        "description": "Um filme para todas as idades, que deixa emociona e dá arrepios ao público",
-        "imageURL": "http://www.osul.com.br/wp-content/uploads/2015/10/frozen.jpg",
-        "learnMore": "https://pt.wikipedia.org/wiki/Frozen_(2013)"
-}
-	
-
+    }
 ]
