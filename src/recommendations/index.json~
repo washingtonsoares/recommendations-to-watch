@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Stranger Things",
+        "description": "Stranger Things é uma série de televisão americana de ficção científica e terror criada, escrita e dirigida pelos irmãos Matt e Ross Duffer.",
+        "imageURL": "https://tvseriescritic.files.wordpress.com/2016/10/stranger-things-bicycle-lights-children.jpg",
+        "learnMore": "https://pt.wikipedia.org/wiki/Stranger_Things"
+    },
+    {
+        "title": "Clube da Luta",
+        "description": "Um homem deprimido que sofre de insônia conhece um estranho vendedor chamado Tyler Durden e se vê morando em uma casa suja depois que seu perfeito apartamento é destruído.",
+        "imageURL": "https://fantoy.com.br/media/catalog/product/cache/1/image/1000x/9df78eab33525d08d6e5fb8d27136e95/b/o/boneco-tyler-durden-blitzway-03_1_1.jpg",
+        "learnMore": "https://pt.wikipedia.org/wiki/Fight_Club"
+    },
+    {
+        "title": "Como Treinar o Seu Dragão",
+        "description": "Soluço é um adolescente viking da ilha de Berk, onde lutar contra dragões é um meio de vida. Suas opiniões avançadas e um senso de humor estranho o tornam um desajustado, apesar de seu pai ser o chefe do clã.",
+        "imageURL": "https://assets0.minhaserie.com.br//images/highlights/000/041/672/39685.jpg",
+        "learnMore": "https://pt.wikipedia.org/wiki/How_to_Train_Your_Dragon_(filme)"
+    },
+    {
+	"title": "The Mentalist",
+	"description": "Patrick Jane, famoso por seus métodos incomuns, tem um histórico notável para a resolução de crimes graves por meio de poderes misteriosos de observação. Porém sua equipe não parece entusiasmada por ter um excêntrico como membro chave da equipe.",
+	"imageURL": "https://d1e5t59v5asibx.cloudfront.net/api/v1/web/image/content/dam/images/entertainment/shows/t/the-mentalist/the-mentalist-showtile.png.2017-11-28T14:17:05+13:00.jpg?width=1200&height=630",
+	"learnMore": "https://pt.wikipedia.org/wiki/The_Mentalist"
+    }
+]

@@ -18,6 +18,11 @@
         "learnMore": "https://pt.wikipedia.org/wiki/How_to_Train_Your_Dragon_(filme)"
     },
     {
+	"title": "The Mentalist",
+	"description": "Patrick Jane, famoso por seus métodos incomuns, tem um histórico notável para a resolução de crimes graves por meio de poderes misteriosos de observação. Porém sua equipe não parece entusiasmada por ter um excêntrico como membro chave da equipe.",
+	"imageURL": "https://d1e5t59v5asibx.cloudfront.net/api/v1/web/image/content/dam/images/entertainment/shows/t/the-mentalist/the-mentalist-showtile.png.2017-11-28T14:17:05+13:00.jpg?width=1200&height=630",
+	"learnMore": "https://pt.wikipedia.org/wiki/The_Mentalist"
+    },
         "title": "Shingeki no Kyojin (Attack on Titan)",
         "description": "Shingeki no Kyojin, também conhecido como Attack on Titan e Ataque dos Titãs no Brasil, é uma série de mangá shonen escrita e ilustrada por Hajime Isayama.",
         "imageURL": "https://img.superanimes.site/img/animes/UJYo-large.jpg",
