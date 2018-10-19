@@ -17,7 +17,12 @@
         "imageURL": "https://assets0.minhaserie.com.br//images/highlights/000/041/672/39685.jpg",
         "learnMore": "https://pt.wikipedia.org/wiki/How_to_Train_Your_Dragon_(filme)"
     },
-
+    {
+        "title": "Shingeki no Kyojin (Attack on Titan)",
+        "description": "Shingeki no Kyojin, também conhecido como Attack on Titan e Ataque dos Titãs no Brasil, é uma série de mangá shonen escrita e ilustrada por Hajime Isayama.",
+        "imageURL": "https://img.superanimes.site/img/animes/UJYo-large.jpg",
+        "learnMore": "https://pt.wikipedia.org/wiki/Shingeki_no_Kyojin"
+    },
     {
         "title": "Massacre da Serra Eletrica",
         "description": "Em 1973, a polícia texana deu como encerrado o caso de um terrível massacre de 33 pessoas provocado por um homem que usava uma máscara feita de pele humana. Nos anos que se seguiram os policiais foram acusados de fazer uma péssima investigação e de terem matado o cara errado. ",
