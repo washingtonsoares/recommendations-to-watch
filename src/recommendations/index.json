@@ -22,5 +22,16 @@
 	"description": "Patrick Jane, famoso por seus métodos incomuns, tem um histórico notável para a resolução de crimes graves por meio de poderes misteriosos de observação. Porém sua equipe não parece entusiasmada por ter um excêntrico como membro chave da equipe.",
 	"imageURL": "https://d1e5t59v5asibx.cloudfront.net/api/v1/web/image/content/dam/images/entertainment/shows/t/the-mentalist/the-mentalist-showtile.png.2017-11-28T14:17:05+13:00.jpg?width=1200&height=630",
 	"learnMore": "https://pt.wikipedia.org/wiki/The_Mentalist"
+    },
+        "title": "Shingeki no Kyojin (Attack on Titan)",
+        "description": "Shingeki no Kyojin, também conhecido como Attack on Titan e Ataque dos Titãs no Brasil, é uma série de mangá shonen escrita e ilustrada por Hajime Isayama.",
+        "imageURL": "https://img.superanimes.site/img/animes/UJYo-large.jpg",
+        "learnMore": "https://pt.wikipedia.org/wiki/Shingeki_no_Kyojin"
+    },
+    {
+        "title": "Massacre da Serra Eletrica",
+        "description": "Em 1973, a polícia texana deu como encerrado o caso de um terrível massacre de 33 pessoas provocado por um homem que usava uma máscara feita de pele humana. Nos anos que se seguiram os policiais foram acusados de fazer uma péssima investigação e de terem matado o cara errado. ",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/pt/8/84/Leatherface.jpg",
+        "learnMore": "https://pt.wikipedia.org/wiki/The_Texas_Chain_Saw_Massacre"
     }
 ]
