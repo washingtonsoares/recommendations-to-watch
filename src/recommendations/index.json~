@@ -16,24 +16,5 @@
         "description": "Soluço é um adolescente viking da ilha de Berk, onde lutar contra dragões é um meio de vida. Suas opiniões avançadas e um senso de humor estranho o tornam um desajustado, apesar de seu pai ser o chefe do clã.",
         "imageURL": "https://assets0.minhaserie.com.br//images/highlights/000/041/672/39685.jpg",
         "learnMore": "https://pt.wikipedia.org/wiki/How_to_Train_Your_Dragon_(filme)"
-    },
-    {
-        "title": "Naruto Shippuden",
-        "description": "Naruto, um adolescente ninja, sonha em se tornar o Hokage de seu vilarejo.",
-        "imageURL": "https://ibdp.videovore.com/show_art/1603?size=2048x768",
-        "learnMore": "https://pt.wikipedia.org/wiki/Lista_de_epis%C3%B3dios_de_Naruto_Shippuden"
-    },
-    {
-        "title": "It: A Coisa",
-        "description": "Crianças começam a desaparecer na cidade de Derry, no Maine, e alguns amigos do mesmo bairro se unem para enfrentar Pennywise, um palhaço malvado cuja história de assassinato e violência remonta a séculos.",
-        "imageURL": "https://www.jornaldopovo.com.br/site/arquivos/conteudos/264009.jpg",
-        "learnMore": "https://pt.wikipedia.org/wiki/It_(2017)"
-    },
-    {
-        "title": "The Flash",
-        "description": "Acompanhe as aventuras do homem mais veloz do planeta, o cientista da Central City Police Barry Allen, que após um trágico acidente adquire o poder da velocidade.",
-        "imageURL": "https://vignette.wikia.nocookie.net/arrow/images/d/d1/Flash_s3_Segundo_poster.png/revision/latest?cb=20180329233044&path-prefix=pt-br",
-        "learnMore": "https://pt.wikipedia.org/wiki/Flash_(DC_Comics)"
     }
-
 ]
