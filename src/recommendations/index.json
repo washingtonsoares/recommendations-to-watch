@@ -17,7 +17,6 @@
         "imageURL": "https://assets0.minhaserie.com.br//images/highlights/000/041/672/39685.jpg",
         "learnMore": "https://pt.wikipedia.org/wiki/How_to_Train_Your_Dragon_(filme)"
     },
-
 {
 
 	 "title": "Norbit - Uma Comédia de Peso",
@@ -40,7 +39,47 @@
         "description": "Um filme para todas as idades, que deixa emociona e dá arrepios ao público",
         "imageURL": "http://www.osul.com.br/wp-content/uploads/2015/10/frozen.jpg",
         "learnMore": "https://pt.wikipedia.org/wiki/Frozen_(2013)"
-}
-	
+},
+   {
+         "title": "O Pequenino",
+        "description": "Calvin Sims (Marlon Wayans) é um perigoso ladrão de jóias que não tem nem um metro de altura. Recém-saído da prisão, elen decide realizar um último grande roubo antes de se aposentar.",
+        "imageURL": "http://br.web.img3.acsta.net/c_300_300/pictures/210/364/21036473_20130905212653924.jpg",
+        "learnMore": "https://pt.wikipedia.org/wiki/Little_Man"
+
+    },
+    {
+
+         "title": "Até Que A Sorte Nos Separe 2",
+        "description": "Três anos depois, Tino (Leandro Hassum) e Jane (Camila Morgado) estão mais uma vez em dificuldades financeiras. O saldo bancário do casal é salvo graças ao inesperado falecimento de tio Olavinho, que deixou uma herança de R$ 100 milhões a ser dividida igualmente entre Jane e sua mãe, Estela (Arlete Salles).",
+        "imageURL": "http://br.web.img3.acsta.net/c_300_300/pictures/210/551/21055155_20131105193307838.jpg",
+        "learnMore": "https://www.youtube.com/watch?v=MUy9MDxvB2k"
+
+ 
+    },
+    {  
+       
+         "title": "Pelé - O Nascimento de uma lenda",
+        "description": "Nascido na cidade mineira de Três Corações, Edson Arantes do Nascimento (Leonardo Lima Carvalho) desde menino demonstrou imensa habilidade ao jogar futebol, nos campos de várzea perto de sua casa. Incentivado pelo pai (Seu Jorge), ao crescer ele recebe a oportunidade de jogar na equipe do Santos.",
+        "imageURL": "http://s2.glbimg.com/Avx5M9AOicGDHnwqjdxSr1zsa9Y=/620x348/g.glbimg.com/og/gs/gsat3/f/original/2018/05/21/pele.jpeg",
+        "learnMore": "https://www.youtube.com/watch?v=rrCR9YS4A5I" 
+   } ,
+  {
+	"title": "The Mentalist",
+	"description": "Patrick Jane, famoso por seus métodos incomuns, tem um histórico notável para a resolução de crimes graves por meio de poderes misteriosos de observação. Porém sua equipe não parece entusiasmada por ter um excêntrico como membro chave da equipe.",
+	"imageURL": "https://d1e5t59v5asibx.cloudfront.net/api/v1/web/image/content/dam/images/entertainment/shows/t/the-mentalist/the-mentalist-showtile.png.2017-11-28T14:17:05+13:00.jpg?width=1200&height=630",
+	"learnMore": "https://pt.wikipedia.org/wiki/The_Mentalist"
+    },
+  {
+        "title": "Shingeki no Kyojin (Attack on Titan)",
+        "description": "Shingeki no Kyojin, também conhecido como Attack on Titan e Ataque dos Titãs no Brasil, é uma série de mangá shonen escrita e ilustrada por Hajime Isayama.",
+        "imageURL": "https://img.superanimes.site/img/animes/UJYo-large.jpg",
+        "learnMore": "https://pt.wikipedia.org/wiki/Shingeki_no_Kyojin"
+    },
+    {
+        "title": "Massacre da Serra Eletrica",
+        "description": "Em 1973, a polícia texana deu como encerrado o caso de um terrível massacre de 33 pessoas provocado por um homem que usava uma máscara feita de pele humana. Nos anos que se seguiram os policiais foram acusados de fazer uma péssima investigação e de terem matado o cara errado. ",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/pt/8/84/Leatherface.jpg",
+        "learnMore": "https://pt.wikipedia.org/wiki/The_Texas_Chain_Saw_Massacre"
+    }
 
 ]
