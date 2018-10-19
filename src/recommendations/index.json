@@ -17,11 +17,22 @@
         "imageURL": "https://assets0.minhaserie.com.br//images/highlights/000/041/672/39685.jpg",
         "learnMore": "https://pt.wikipedia.org/wiki/How_to_Train_Your_Dragon_(filme)"
     },
-
     {
         "title": "Massacre da Serra Eletrica",
         "description": "Em 1973, a polícia texana deu como encerrado o caso de um terrível massacre de 33 pessoas provocado por um homem que usava uma máscara feita de pele humana. Nos anos que se seguiram os policiais foram acusados de fazer uma péssima investigação e de terem matado o cara errado. ",
         "imageURL": "https://upload.wikimedia.org/wikipedia/pt/8/84/Leatherface.jpg",
         "learnMore": "https://pt.wikipedia.org/wiki/The_Texas_Chain_Saw_Massacre"
+    },
+    {
+        "title": "Jhon Wick",
+        "description": "John Wick é uma franquia de mídia americana que consiste em filmes de ação e suspense criados por Derek Kolstad e dirigidos por Chad Stahelski.",
+        "imageURL": "https://i.kinja-img.com/gawker-media/image/upload/s--p5922Wh2--/c_scale,f_auto,fl_progressive,q_80,w_800/ahvriuhlef98d9fsuc60.jpg",
+        "learnMore": "https://pt.wikipedia.org/wiki/John_Wick"
+    },
+    {
+        "title": "Atypical",
+        "description": "Atypical é uma série norte-americana de comédia dramática original Netflix, criada e escrita por Robia Rashid, que conta a história de um rapaz de 18 anos, diagnosticado dentro do espectro do autismo, que trabalha e estuda, vivendo a efervescência da idade e seu amadurecimento.",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Atypical_p%C3%B3ster.jpg/250px-Atypical_p%C3%B3ster.jpg",
+        "learnMore": "https://pt.wikipedia.org/wiki/Atypical"
     }
 ]
