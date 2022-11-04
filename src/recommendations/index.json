@@ -35,7 +35,7 @@
         "imageURL": "https://vignette.wikia.nocookie.net/arrow/images/d/d1/Flash_s3_Segundo_poster.png/revision/latest?cb=20180329233044&path-prefix=pt-br",
         "learnMore": "https://pt.wikipedia.org/wiki/Flash_(DC_Comics)"
     },
-    {  
+    {
         "title": "A freira",
         "description": "Presa em um convento na Romênia, uma freira comete suicídio. Para investigar o caso, o Vaticano envia um padre atormetado e uma noviça preste a se torna freira",
         "imageURL": "https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2018/06/The-Nun-790x444.jpg",
@@ -107,14 +107,14 @@
         "imageURL": "http://br.web.img3.acsta.net/c_300_300/pictures/210/551/21055155_20131105193307838.jpg",
         "learnMore": "https://www.youtube.com/watch?v=MUy9MDxvB2k"
 
- 
+
     },
-    {  
-       
+    {
+
          "title": "Pelé - O Nascimento de uma lenda",
         "description": "Nascido na cidade mineira de Três Corações, Edson Arantes do Nascimento (Leonardo Lima Carvalho) desde menino demonstrou imensa habilidade ao jogar futebol, nos campos de várzea perto de sua casa. Incentivado pelo pai (Seu Jorge), ao crescer ele recebe a oportunidade de jogar na equipe do Santos.",
         "imageURL": "http://s2.glbimg.com/Avx5M9AOicGDHnwqjdxSr1zsa9Y=/620x348/g.glbimg.com/og/gs/gsat3/f/original/2018/05/21/pele.jpeg",
-        "learnMore": "https://www.youtube.com/watch?v=rrCR9YS4A5I" 
+        "learnMore": "https://www.youtube.com/watch?v=rrCR9YS4A5I"
    } ,
   {
 	"title": "The Mentalist",
@@ -157,5 +157,11 @@
         "description": "A série acompanha a saga dos navegadores nórdicos que exploram - e conquistam - novos territórios nos tempos medievais.",
         "imageURL": "http://br.web.img3.acsta.net/pictures/17/10/16/18/50/5552678.jpg",
         "learnMore": "https://pt.wikipedia.org/wiki/Vikings_(série_de_televisão)"
+    },
+    {
+        "title": "A Casa do Dragão",
+        "description": "Os apoiadores de Aegon Targaryen entram em conflito com os adeptos de sua meia-irmã, Rhaenyra, pelo trono de Viserys I, seu falecido pai, iniciando uma guerra civil cerca de 200 anos antes dos eventos retratados em Game of Thrones.",
+        "imageURL": "https://thestreamable.com/media/pages/news/hbo-max-announces-premiere-date-for-house-of-the-dragon-game-of-thrones-prequel/d48e6319a3-1648654057/house-of-the-dragon-banner-1536x864-crop.jpg",
+        "learnMore": "https://pt.wikipedia.org/wiki/House_of_the_Dragon"
     }
 ]
